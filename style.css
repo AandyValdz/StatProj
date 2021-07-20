@@ -1,0 +1,51 @@
+body{
+  font-size:15px;
+  background-color: hsl(233, 47%, 7%);
+}
+h1{
+  color: hsl(0, 0%, 100%);
+}
+h2{
+  color: hsl(0, 0%, 100%);
+}
+span{
+  color: hsl(277, 64%, 61%);
+}
+.Main{
+  position: relative;
+  margin: 100px;
+  background-color:hsl(244, 38%, 16%);
+  width: 1150px;
+  height: 383px;
+}
+.about{
+  display: inline-block;
+  margin-left: 0px;
+  margin-right: 70px;
+}
+.para{
+  font-family: 'Inter' sans-serif;
+  color: hsla(0, 0%, 100%, 0.75);
+}
+.stat{
+  font-family: 'Inter' sans-serif;
+  color: hsla(0, 0%, 100%, 0.6);
+}
+.upper{
+  margin-right: 100px;
+  margin-bottom: 50px;
+}
+.text{
+  height: 100%;
+  width: 50%;
+  margin-top: 50px;
+  margin-left: 50px;
+  display: inline-block;
+}
+.img{
+  position: absolute;
+  height: 100%;
+  width: 45.5%;
+  float: right;
+  mix-blend-mode: color-dodge;
+}
