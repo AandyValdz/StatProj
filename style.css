@@ -32,6 +32,7 @@ span{
   color: hsla(0, 0%, 100%, 0.6);
 }
 .upper{
+  font-family: 'Inter', sans-serif;
   margin-right: 100px;
   margin-bottom: 50px;
 }
@@ -48,4 +49,7 @@ span{
   width: 45.5%;
   float: right;
   mix-blend-mode: color-dodge;
+}
+.lower{
+  font-family: 'Lexend Deca', sans-serif;
 }
